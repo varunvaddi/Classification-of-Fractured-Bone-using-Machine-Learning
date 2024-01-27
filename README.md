@@ -1,0 +1,2 @@
+# Classification-of-Fractured-Bone-using-Machine-Learning
+The Random Forest Algorithm uses the predictions received from the decision trees and the calculated scores of the images in the dataset to classify the given image and uses python libraries for picturizing it as the desired output, the accuracy is very high using this technique and the exposed output can be stored in database for future reference.
